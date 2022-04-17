@@ -1,4 +1,4 @@
-# HackTJ9.0
+# The Safe Space
 ![GitHub language](https://img.shields.io/github/languages/top/TheMoonWalker1/HackTJ9.0?color=FF6663)
 ![GitHub language count](https://img.shields.io/github/languages/count/TheMoonWalker1/HackTJ9.0?color=FEB144)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/TheMoonWalker1/HackTJ9.0?color=FAFD7B)
@@ -9,11 +9,9 @@
 Github Repo for our the 2022 Hack TJ hackathon 
 
 <p align="center">
-  <a href="https://github.com/rushilwiz/spaceout">
-    <img src="Removal-390.png" alt="Logo" width="480px" height="320px">
+  <a href="https://github.com/TheMoonWalker1/HackTJ9.0">
+    <img src="https://verawoodhead.files.wordpress.com/2018/02/be-1362307_1920.png?w=640" alt="Logo">
   </a>
-
-<!--   <h1 align="center">The Safe Space</h1> -->
 
 </p>
   
